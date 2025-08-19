@@ -2,15 +2,15 @@
 
 *COMPANY*: CODETECH IT SOLUTIONS
 
-*NAME*: MANTRI KRISHNA MAHITHA
+*NAME*: MAMIDI JAHNAVI
 
-*INTERN ID*: CT04DN1040
+*INTERN ID*: CT04DZ1374
 
 *DOMAIN*: FULL STACK WEB DEVELOPMENT
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*: NEELA SANThOSH KUMAR
 
 The task involves the design and development of a real-time chat application that allows multiple users to communicate instantly over the internet. This application is built using WebSocket technology, specifically with the Socket.IO library, and integrates both frontend and backend components to enable live, bidirectional communication between clients and the server.
 
